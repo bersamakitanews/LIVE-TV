@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+<meta http-equiv="Content-Type" content="text/html;" charset="utf-8" />
+<title>Live Streaming - BersamaKitaNews TV</title>
+<meta name="description" content="Live Streaming - BersamaKitaNews TV" />
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="initial-scale = 1.0, user-scalable = no, width=device-width, height=device-height, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<script type="text/javascript" src="https://cdn.cnnindonesia.com/cnnid/js/jquery-3.6.0.min.js"></script>
+
+<style>body {margin: 0;overflow: hidden;}</style>
+
+   </head>
+<body>    
+<div id="bersamakitanews_tv"><script>var player={target:"bersamakitanews_tv", autoplay : false, mute : false, live : true,
+imageUrl :'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFLLYocAHdpjAiMMOsQrD1oEvvFO3Kyc0H81RuLGxBq3ExCmzhoXNt9sLFVFk0Agn6jZkCHRWywQ4k4ioAQdXjoIaIBQZWWae89pN_5EmjlBlT7bTroB1a5VultZzOfj303nCO7Igw_7yEOxrmN5dmz-T2CbErWldo4GjVxa4r_YUsF3y9RQuuWHYjHa9U/s16000/20250109_002334.jpg',
+videoUrl : "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
+adRules : " ",
+features :{loadByDiv: true, enableLiveAdsServerPush: true, smartAutoplay: true}}</script></div>
+
+<script src="https://raw.githack.com/bersamakitanews/bersamakitanews.com/main/detikVideo.core.js">player</script>
+
+</body>
+</html>
