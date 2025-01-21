@@ -15,7 +15,7 @@
 <body>    
 <div id="bersamakitanews_tv"><script>var player={target:"bersamakitanews_tv", title: "Bersama Kita News TV", autoplay: false, mute: false, live: true,
 imageUrl :'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-89DKylw-KqQNSHpBnu2ELDCelW2xsym_ss1Uf7eBrg1C5Iwk5EEvt8uuMlyamdq16kaoBeUMgUt-kE4YTyqPGWSR9KhKzeF0E7T6p8jmC867wXKLwIeMGM2kgmuHAIzi2Mo5guPsmz-DiDQG2LPfiGMwWNjyGmBKZMlBVh20qOOQpPwDzSIcpJLdQ1Cu/s16000/20250121_140055.jpg?w=600',
-videoUrl : "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8",
+videoUrl : "https://cdn.bersamakitanews.com/livetv/playlist.m3u8",
 adRules : " ",
 features :{loadByDiv: true, enableLiveAdsServerPush: true, smartAutoplay: true}};
 
